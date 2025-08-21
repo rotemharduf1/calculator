@@ -1,7 +1,10 @@
 # calculator 
 
 This is a simple calculator built with **HTML**, **CSS**, and **JavaScript**.
+
 I was inspired by the design of the Apple calculator.
+
+Testing branch
 
 ## Features
 - Basic arithmetic operators(+,-,/,x)
